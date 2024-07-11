@@ -3,6 +3,7 @@
   "displayName": "Semantic Commit Generator",
   "description": "Generate structured, semantic commit messages with ease. Choose commit types, add descriptions, and elevate your Git workflow.",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -43,5 +44,9 @@
     "webpack-cli": "^5.1.4",
     "@vscode/test-cli": "^0.0.9",
     "@vscode/test-electron": "^2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ishan-Ravindu/semantic-commit-generator.git"
   }
 }
