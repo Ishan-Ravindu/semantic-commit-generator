@@ -4,6 +4,7 @@
   "description": "Generate structured, semantic commit messages with ease. Choose commit types, add descriptions, and elevate your Git workflow.",
   "version": "0.0.1",
   "license": "MIT",
+  "publisher": "Ishan-Ravindu",
   "engines": {
     "vscode": "^1.91.0"
   },
