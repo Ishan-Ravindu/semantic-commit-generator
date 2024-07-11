@@ -15,8 +15,12 @@
   "contributes": {
     "commands": [
       {
-        "command": "semantic-commit-generator.helloWorld",
-        "title": "Hello World"
+        "command": "extension.generateSemanticCommit",
+        "title": "Generate Semantic Commit"
+      },
+      {
+        "command": "extension.showCommitExamples",
+        "title": "Show Commit Examples"
       }
     ]
   },
